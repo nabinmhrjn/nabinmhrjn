@@ -9,7 +9,11 @@
 
 </div>
 
-I’m a dedicated MERN stack developer and lifelong learner, crafting user-centered, scalable, and responsive web applications. Before transitioning into tech, I spent over a decade as a sound technician and DJ — a journey that shaped my creativity, attention to detail, and ability to perform under pressure. Today, I blend those strengths with modern technologies like MongoDB, Express, React, and Node.js to build seamless end-to-end solutions, from intuitive front-end interfaces to robust back-end APIs.
+I’m a MERN stack developer and lifelong learner with a background as a sound technician and DJ. I build user-centered, scalable web applications using MongoDB, Express, React, and Node.js. Open to new projects, collaborations, and opportunities — let’s connect! 
+
 
 
 </div>
+
+#### Thanks for visiting 🙏
+![Profile Views](https://komarev.com/ghpvc/?username=nabinmhrjn&color=F85D7F&style=for-the-badge)

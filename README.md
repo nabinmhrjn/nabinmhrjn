@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="left">
 
-<!--
-**nabinmhrjn/nabinmhrjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Nabin Maharjan
 
-Here are some ideas to get you started:
+### MERN Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/being-nabin)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:maharjan.nabin85@gmail.com)
+
+</div>
+
+I'm a dedicated MERN stack developer that enjoys creating user-centered, scalable, and responsive web applications. I use MongoDB, Express, React, and Node.js to create seamless end-to-end solutions throughout the entire stack, from creating user-friendly front-end interfaces to creating back-end APIs.
+
+![Profile Views](https://komarev.com/ghpvc/?username=nabinmhrjn&color=F85D7F&style=for-the-badge)
+
+**Thanks for visiting 🙏**
+
+</div>

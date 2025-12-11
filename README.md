@@ -9,7 +9,7 @@
 
 </div>
 
-I’m a MERN stack developer and lifelong learner with a background as a sound technician and DJ. I build user-centered, scalable web applications using MongoDB, Express, React, and Node.js. Open to new projects, collaborations, and opportunities — let’s connect! 
+I’m a MERN stack developer and passionate learner with a background as a sound technician and DJ. I build user-centered, scalable web applications using MongoDB, Express, React, and Node.js. Open to new projects, collaborations, and opportunities — let’s connect! 
 
 
 
